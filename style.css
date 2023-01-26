@@ -70,10 +70,10 @@
 
 
 
-  #project{
+  .project{
     margin: 40px;
     padding: 40px;
-    
+    widht:700px;
     position: relative;
     
     
